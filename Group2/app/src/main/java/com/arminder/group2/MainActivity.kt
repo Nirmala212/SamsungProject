@@ -16,7 +16,7 @@ import com.arminder.group2.ui.theme.Group2Theme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
+
         setContent {
             Group2Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
