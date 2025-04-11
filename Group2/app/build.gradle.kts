@@ -66,7 +66,6 @@ dependencies {
     implementation ("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
     implementation ("com.squareup.retrofit2:retrofit:2.9.0")
     implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
-    implementation ("com.google.firebase:firebase-firestore-ktx") // For cloud storage
     implementation ("com.android.billingclient:billing-ktx:6.0.1")
 
 

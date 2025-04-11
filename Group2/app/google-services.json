@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349980576623",
+    "project_id": "test1-2c698",
+    "storage_bucket": "test1-2c698.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349980576623:android:ca9e35a87480d726df369a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cloud_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtA8KOjbXLqxcY5fcae1KlL4xwiYA9tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349980576623:android:60b3be3afa3dadb0df369a",
+        "android_client_info": {
+          "package_name": "com.paypal.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtA8KOjbXLqxcY5fcae1KlL4xwiYA9tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
